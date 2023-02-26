@@ -1,2 +1,2 @@
-# kubemox
-My home lab on kubernetes
+# KUBEMOX 🕸️
+## How to install ?
